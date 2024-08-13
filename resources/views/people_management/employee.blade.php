@@ -2,6 +2,6 @@
 
 @section('content')
 <div class="container-fluid pt-4">
-   <div class="h2">emplyee</div>
+   <div class="h2">emplyoee</div>
 </div>
 @endsection
